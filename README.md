@@ -15,8 +15,8 @@ This Repo is created for Web Design using ReactJs FDP 3
  1. Ordered List
     1. Tamoto
     
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+*git config --global user.email "kiransai8811@gmail.com"
+*git config --global user.name "SaiKiranKasireddy"
 
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
